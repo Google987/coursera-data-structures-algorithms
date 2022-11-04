@@ -2,13 +2,12 @@ def fibonacci_last_digit(n):
     if n <= 1:
         return n
 
-    previous = 0
-    current  = 1
-
+    first, second = 0, 1
+    nums = [first, second]
     for _ in range(n - 1):
-        previous, current = current, previous + current
+        nums.append((nums[-1] + nums[-2]) % 10)
 
-    return current % 10
+    return nums[-1] 
 
 
 if __name__ == '__main__':
