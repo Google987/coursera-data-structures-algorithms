@@ -1,6 +1,8 @@
 # Problem details: 
 # (Please check page no. 54) https://alexanderskulikov.github.io/files/toolbox_statements.pdf
 
+# If you face any issue with inputs when executing this program, please check the below link
+# https://stackoverflow.com/questions/36798798/using-sys-stdin-readline-to-read-multiple-lines-from-cmd-in-python
 
 from sys import stdin
 
