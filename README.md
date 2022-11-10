@@ -6,7 +6,11 @@ I will use this repo to keep track of my journey with this Coursera course.
 
 PLEASE DO NOT COPY-PASTE THESE SOLUTIONS TO PASS THE COURSE. 
 
-COURSE 1: Algorithmic Toolbox
+COURSE 1: [Algorithmic Toolbox](https://github.com/Google987/coursera-data-structures-algorithms/tree/main/Algorithmic%20Toolbox)
+* [Week 1](https://github.com/Google987/coursera-data-structures-algorithms/tree/main/Algorithmic%20Toolbox/Week%201)
+* [Week 2](https://github.com/Google987/coursera-data-structures-algorithms/tree/main/Algorithmic%20Toolbox/Week%202)
+* [Week 3](https://github.com/Google987/coursera-data-structures-algorithms/tree/main/Algorithmic%20Toolbox/Week%203)
+* [Week 4](https://github.com/Google987/coursera-data-structures-algorithms/tree/main/Algorithmic%20Toolbox/Week%204)
 
 COURSE 2: Data Structures
 
