@@ -1,3 +1,6 @@
+# Problem details: 
+# (Please check page no. 92) https://alexanderskulikov.github.io/files/toolbox_statements.pdf
+
 def majority_element_naive(elements):
     counts = {}
     n = len(elements)
