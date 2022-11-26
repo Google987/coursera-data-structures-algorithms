@@ -12,6 +12,7 @@ COURSE 1: [Algorithmic Toolbox](https://github.com/Google987/coursera-data-struc
 * [Week 3](https://github.com/Google987/coursera-data-structures-algorithms/tree/main/Algorithmic%20Toolbox/Week%203)
 * [Week 4](https://github.com/Google987/coursera-data-structures-algorithms/tree/main/Algorithmic%20Toolbox/Week%204)
 * [Week 5](https://github.com/Google987/coursera-data-structures-algorithms/tree/main/Algorithmic%20Toolbox/Week%205)
+* [Week 6](https://github.com/Google987/coursera-data-structures-algorithms/tree/main/Algorithmic%20Toolbox/Week%206)
 
 COURSE 2: Data Structures
 
